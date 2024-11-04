@@ -1,0 +1,1 @@
+This is the "Recipes" project for Odin. The goal of this project is to create a very simple web page that uses links and images.
